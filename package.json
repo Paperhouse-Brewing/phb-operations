@@ -1,0 +1,19 @@
+{
+	"name": "phb_operations",
+	"version": "0.1.0",
+	"description": "Paperhouse Brewing core operations of the brewery and fermentation controllers.",
+	"main": "src/phb_operations.js",
+	"scripts": {},
+	"author": "Richard P. Gonzales",
+	"license": "GPL-3.0",
+	"dependencies": {
+		"debug": "~2.6.9",
+		"johnny-five": "github:paperhouse-brewing/johnny-five#feature/DS18B20_Device_Search",
+		"lodash": "^4.17.15",
+		"node-pid": "github:paperhouse-brewing/node-pid#feature/Initial_Node_JS_Convert",
+		"sequelize": "^5.21.3",
+		"sqlite": "^3.0.3",
+		"sqlite3": "^4.1.1",
+		"supports-color": "^7.1.0"
+	}
+}
