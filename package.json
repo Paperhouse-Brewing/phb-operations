@@ -9,7 +9,7 @@
 	"dependencies": {
 		"debug": "~2.6.9",
 		"johnny-five": "github:paperhouse-brewing/johnny-five#feature/DS18B20_Device_Search",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.20",
 		"node-pid": "github:paperhouse-brewing/node-pid#feature/Initial_Node_JS_Convert",
 		"sequelize": "^5.21.3",
 		"sqlite": "^3.0.3",
